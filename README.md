@@ -1,1 +1,3 @@
-# ece457b
+# ECE457B
+
+Course Assignments
